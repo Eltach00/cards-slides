@@ -1,0 +1,1 @@
+# Plugin for Picture slides
